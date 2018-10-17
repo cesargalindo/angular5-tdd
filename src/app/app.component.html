@@ -5,4 +5,14 @@
   <a routerLink="/heroes">Heroes</a>
   <a routerLink="/about">About</a>
 </nav>
+
+<hr>
+  <div>
+    Points: <span>{{points}}</span>
+  </div>
+
+  <button (click)="plus1()">Plus 1</button>
+  <button (click)="reset()">Reset</button>
+<hr>
+
 <router-outlet></router-outlet>

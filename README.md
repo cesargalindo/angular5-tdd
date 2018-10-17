@@ -1,7 +1,13 @@
-# Test1
+# Test1 - E2E
+
+Added End to End testing using Protractor
+
+Run `ng e2e`
+
+
+# Test1 - TTD
 
 Example repo to demo Angular Test Bed testing...
-
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
 
